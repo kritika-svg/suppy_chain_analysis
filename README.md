@@ -1,1 +1,4 @@
+# Supply Chain Analysis
+# Executive Summary
 
+A detailed evaluation of supply chain and business performance has been conducted using Python (Google Colab) for analytical processing and Tableau for executive visualization. The analysis focuses on data quality improvement, trend identification, and operational KPI assessment across areas such as inventory management, lead-time variability, supplier reliability, and order fulfillment efficiency. Insights derived from the cleaned and structured dataset highlight critical bottlenecks affecting overall supply chain responsiveness. The accompanying Tableau dashboards translate these insights into strategic visuals, supporting leadership in making data-driven decisions aimed at improving operational stability, reducing delays, and enhancing end-to-end supply chain performance.
