@@ -1,0 +1,5 @@
+Pandas (v2.2.2)
+NumPy (v1.26.4)
+Matplotlib (v3.8.4)
+Seaborn (v0.13.2)
+Plotly (v5.20.0)
